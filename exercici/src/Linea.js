@@ -6,6 +6,7 @@ export default (props) => {
         fontSize: '20px',
         padding: '10px', 
         fontFamily: ' Times New Roman', 
+        color: 'darkblue',
         fontWeight: 'Bold'}
     return (
      
