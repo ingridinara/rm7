@@ -5,7 +5,7 @@ export default (props) => {
     const StyleLine = {
         fontSize: '20px',
         padding: '10px', 
-        fontFamily: ' Helvetica', 
+        fontFamily: ' Times New Roman', 
         fontWeight: 'Bold'}
     return (
      
